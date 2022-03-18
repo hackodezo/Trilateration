@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "trilateration@git://github.com/gheja/trilateration.js.git",
+      "/Users/athul/Documents/Syook/insite-server"
+    ]
+  ],
+  "_from": "trilateration@git://github.com/gheja/trilateration.js.git",
+  "_id": "trilateration@git+ssh://git@github.com/gheja/trilateration.js.git#f3dfe7a232a39fe3bb64fe78d9877c3938c693ae",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/trilateration",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "trilateration@git://github.com/gheja/trilateration.js.git",
+    "name": "trilateration",
+    "escapedName": "trilateration",
+    "rawSpec": "git://github.com/gheja/trilateration.js.git",
+    "saveSpec": "git://github.com/gheja/trilateration.js.git",
+    "fetchSpec": "git://github.com/gheja/trilateration.js.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/gheja/trilateration.js.git#f3dfe7a232a39fe3bb64fe78d9877c3938c693ae",
+  "_spec": "git://github.com/gheja/trilateration.js.git",
+  "_where": "/Users/athul/Documents/Syook/insite-server",
+  "author": {
+    "name": "Gabor Heja",
+    "url": "gheja"
+  },
+  "bugs": {
+    "url": "https://github.com/gheja/trilateration.js/issues"
+  },
+  "dependencies": {},
+  "description": "Trilateration in 3D space using 3 points.",
+  "devDependencies": {
+    "atob": ">= 2.0.3",
+    "btoa": ">= 1.1.2",
+    "expect": ">= 1.20.2",
+    "mocha": ">= 3.3.0"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "homepage": "https://github.com/gheja/trilateration.js",
+  "license": "MIT",
+  "main": "trilateration.js",
+  "name": "trilateration",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gheja/trilateration.js.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.0.1"
+}
